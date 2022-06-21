@@ -30,9 +30,6 @@ namespace Algoritma_Tasarımı
             }   
             return result;
         }
-        public void main()
-        {
-            Console.WriteLine(Obeb(18, 24));
-        }
+
     }
 }

@@ -27,9 +27,6 @@ namespace Algoritma_Tasarımı
             }
             return s;
         }
-        public void main()
-        {
-            Console.WriteLine(Okek(15, 20));
-        }
+
     }
 }
