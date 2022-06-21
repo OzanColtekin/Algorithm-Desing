@@ -11,13 +11,13 @@ namespace Algoritma_Tasarımı
     {
         public static ArrayList Primes(int x)
         {
-            ArrayList result = new ArrayList();
+            ArrayList result = new();
             int i = 2;
             while(x > 1)
             {
                 if (x % i == 0)
                 {
-                    x = x / i;
+                    x /= i;
                     result.Add(i);
                 }
                 else
