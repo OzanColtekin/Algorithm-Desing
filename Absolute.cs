@@ -11,7 +11,8 @@ namespace Algoritma_Tasarımı
         public static int Abs(int n)
         {
             int value;
-            if (n < 0) value = -1 * n;
+            if(n == 0) return 0;
+            if(n < 0) value = -1 * n;
             else value = n;
             return value;
         }
