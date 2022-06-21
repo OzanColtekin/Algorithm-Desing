@@ -17,6 +17,6 @@ namespace Algoritma_Tasarımı
                     result[i] = arr[i];
             }
             return result;
-        }}
+        }
     }
 }
