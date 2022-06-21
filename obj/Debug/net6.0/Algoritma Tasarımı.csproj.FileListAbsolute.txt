@@ -1,0 +1,15 @@
+D:\! Ozan\Developer Tools\C# Eğitim\Algoritma Tasarımı\bin\Debug\net6.0\Algoritma Tasarımı.exe
+D:\! Ozan\Developer Tools\C# Eğitim\Algoritma Tasarımı\bin\Debug\net6.0\Algoritma Tasarımı.deps.json
+D:\! Ozan\Developer Tools\C# Eğitim\Algoritma Tasarımı\bin\Debug\net6.0\Algoritma Tasarımı.runtimeconfig.json
+D:\! Ozan\Developer Tools\C# Eğitim\Algoritma Tasarımı\bin\Debug\net6.0\Algoritma Tasarımı.dll
+D:\! Ozan\Developer Tools\C# Eğitim\Algoritma Tasarımı\bin\Debug\net6.0\Algoritma Tasarımı.pdb
+D:\! Ozan\Developer Tools\C# Eğitim\Algoritma Tasarımı\obj\Debug\net6.0\Algoritma Tasarımı.csproj.AssemblyReference.cache
+D:\! Ozan\Developer Tools\C# Eğitim\Algoritma Tasarımı\obj\Debug\net6.0\Algoritma Tasarımı.GeneratedMSBuildEditorConfig.editorconfig
+D:\! Ozan\Developer Tools\C# Eğitim\Algoritma Tasarımı\obj\Debug\net6.0\Algoritma Tasarımı.AssemblyInfoInputs.cache
+D:\! Ozan\Developer Tools\C# Eğitim\Algoritma Tasarımı\obj\Debug\net6.0\Algoritma Tasarımı.AssemblyInfo.cs
+D:\! Ozan\Developer Tools\C# Eğitim\Algoritma Tasarımı\obj\Debug\net6.0\Algoritma Tasarımı.csproj.CoreCompileInputs.cache
+D:\! Ozan\Developer Tools\C# Eğitim\Algoritma Tasarımı\obj\Debug\net6.0\Algoritma Tasarımı.dll
+D:\! Ozan\Developer Tools\C# Eğitim\Algoritma Tasarımı\obj\Debug\net6.0\refint\Algoritma Tasarımı.dll
+D:\! Ozan\Developer Tools\C# Eğitim\Algoritma Tasarımı\obj\Debug\net6.0\Algoritma Tasarımı.pdb
+D:\! Ozan\Developer Tools\C# Eğitim\Algoritma Tasarımı\obj\Debug\net6.0\Algoritma Tasarımı.genruntimeconfig.cache
+D:\! Ozan\Developer Tools\C# Eğitim\Algoritma Tasarımı\obj\Debug\net6.0\ref\Algoritma Tasarımı.dll
