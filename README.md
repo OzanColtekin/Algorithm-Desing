@@ -1,2 +1,2 @@
 # Algorithm-Desing
-I'll try to add a new algortim day by day.
+I'll try to add a new algortim day by day. :(
